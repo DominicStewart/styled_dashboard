@@ -1,0 +1,109 @@
+:root { 
+  --black: #000000;
+  --bondi-blue: #00a4b7;
+  --mirage: #121a24;
+  --mischka: #c8d1dc;
+  --mystic: #e6eaef;
+  --orange: #fb651e;
+  --pale-sky: #6b7785;
+  --pickled-bluewood: #2b3f56;
+  --porcelain: #eff3f5;
+  --white: #ffffff;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 14px;
+  --font-size-s: 13px;
+  --font-size-xl: 22px;
+  --font-size-xs: 12px;
+  --font-size-xxs: 11px;
+  --font-size-xxxs: 9px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+}
+.inter-bold-mischka-9px {
+  color: var(--mischka);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-medium-bondi-blue-14px {
+  color: var(--bondi-blue);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-medium-orange-14px {
+  color: var(--orange);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-bold-pale-sky-11px {
+  color: var(--pale-sky);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-medium-pale-sky-12px {
+  color: var(--pale-sky);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-medium-mirage-16px {
+  color: var(--mirage);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-normal-mischka-13px {
+  color: var(--mischka);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-medium-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-bold-white-11px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-medium-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}

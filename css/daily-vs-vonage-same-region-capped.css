@@ -1,0 +1,1313 @@
+/* screen - daily-vs-vonage-same-region-capped */
+
+.daily-vs-vonage-same-region-capped {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  justify-content: space-between;
+  min-height: 908px;
+  min-width: 1920px;
+  position: relative;
+  width: 100%;
+}
+
+.daily-vs-vonage-same-region-capped .lhs {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(31, 45, 61) 68.23%, rgb(18, 26, 36) 100%);
+  display: flex;
+  flex-direction: column;
+  height: 908px;
+  justify-content: space-between;
+  padding: 30px 0px 30px 30px;
+  position: relative;
+  width: 640px;
+}
+
+.daily-vs-vonage-same-region-capped .frame-1-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.daily-vs-vonage-same-region-capped .header-1 {
+  align-items: center;
+  gap: 24px;
+  padding: 0px 0px 30px;
+}
+
+.daily-vs-vonage-same-region-capped .vector-2 {
+  height: 45px;
+  min-width: 109px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .line-1 {
+  align-self: stretch;
+  height: 45px;
+  min-width: 1px;
+}
+
+.daily-vs-vonage-same-region-capped .frame-1-4 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .daily-vs-vonage-call-quality-analysis {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .x11-capped-same-region-peers {
+  letter-spacing: 0;
+  line-height: 13px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .participants {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .section-header {
+  align-items: center;
+  background-color: var(--pickled-bluewood);
+  border-radius: 9px 0px 0px 9px;
+  gap: 16px;
+  padding: 12px 16px;
+}
+
+.daily-vs-vonage-same-region-capped .vector-3 {
+  height: 20px;
+  min-width: 24px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .participants-1 {
+  letter-spacing: 0;
+  line-height: 16px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .frame-2-1 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 12px;
+  width: 610px;
+}
+
+.daily-vs-vonage-same-region-capped .header-2 {
+  align-items: flex-start;
+  gap: 22px;
+  padding: 0px 30px 0px 0px;
+}
+
+.daily-vs-vonage-same-region-capped .count {
+  letter-spacing: 0.55px;
+  line-height: 11px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .type {
+  letter-spacing: 0.55px;
+  line-height: 11px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.daily-vs-vonage-same-region-capped .region {
+  flex: 1;
+  letter-spacing: 0.55px;
+  line-height: 11px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.daily-vs-vonage-same-region-capped .bandwidth {
+  letter-spacing: 0.55px;
+  line-height: 11px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.daily-vs-vonage-same-region-capped .row {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--pickled-bluewood);
+  display: flex;
+  gap: 42px;
+  padding: 0px 30px 12px 0px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .frame-2-2 {
+  align-items: center;
+  background-color: var(--pickled-bluewood);
+  border-radius: 24px;
+  gap: 1016px;
+  height: 24px;
+  justify-content: center;
+  overflow: hidden;
+  width: 24px;
+}
+
+.daily-vs-vonage-same-region-capped .number-1 {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-weight: 600;
+  line-height: 11px;
+}
+
+.daily-vs-vonage-same-region-capped .frame-3-1 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .synthetic {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.daily-vs-vonage-same-region-capped .frame-1-5 {
+  align-items: center;
+  flex: 1;
+  gap: 8px;
+}
+
+.daily-vs-vonage-same-region-capped .eu-west-london {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .frame-4-1 {
+  align-items: center;
+  background-color: #ff915340;
+  border-radius: 24px;
+  display: flex;
+  gap: 1016px;
+  height: 24px;
+  justify-content: space-around;
+  overflow: hidden;
+  padding: 0px 12px;
+  position: relative;
+  width: 100px;
+}
+
+.daily-vs-vonage-same-region-capped .address {
+  color: var(--orange);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .frame-1-item {
+  align-items: flex-start;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.daily-vs-vonage-same-region-capped .vector {
+  height: 24px;
+  min-width: 22px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .simulcast {
+  letter-spacing: 0;
+  line-height: 16px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .frame-1-6 {
+  align-items: flex-start;
+  padding: 0px 30px 0px 0px;
+  width: 610px;
+}
+
+.daily-vs-vonage-same-region-capped .rectangle-2 {
+  background-color: #1f2d3d;
+  height: 5px;
+  min-width: 107px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .frame-1-item-1 {
+  flex: 1;
+  letter-spacing: 0.55px;
+  line-height: 11px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.daily-vs-vonage-same-region-capped .section-1 {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 30px 0px 0px;
+}
+
+.daily-vs-vonage-same-region-capped .frame-1-7 {
+  align-items: center;
+  align-self: stretch;
+  gap: 8px;
+}
+
+.daily-vs-vonage-same-region-capped .frame-1 {
+  align-items: center;
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .frame-1-1 {
+  align-items: center;
+  background-color: var(--mirage);
+  border-radius: 6px;
+  height: 38px;
+  justify-content: center;
+  padding: 0px 12px;
+  width: 90px;
+}
+
+.daily-vs-vonage-same-region-capped .layer {
+  letter-spacing: 0.55px;
+  line-height: 11px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .vector-1 {
+  height: 15px;
+  min-width: 9px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .frame-2 {
+  border: 1px solid;
+  border-color: var(--pickled-bluewood);
+  border-radius: 6px;
+  flex: 1;
+  height: 38px;
+  min-width: 473px;
+  overflow: hidden;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .overlap-group1 {
+  gap: 44px;
+  height: 38px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 158px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 0;
+}
+
+.daily-vs-vonage-same-region-capped .x1280x720 {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: 2.0px;
+  min-width: 67px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.daily-vs-vonage-same-region-capped .divider {
+  height: 38px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.daily-vs-vonage-same-region-capped .overlap-group2 {
+  gap: 57px;
+  height: 38px;
+  left: 158px;
+  min-width: 315px;
+  position: absolute;
+  top: 0;
+}
+
+.daily-vs-vonage-same-region-capped .overlap-group {
+  gap: 46px;
+  justify-content: flex-end;
+  min-width: 158px;
+}
+
+.daily-vs-vonage-same-region-capped .address-1 {
+  line-height: 14px;
+  margin-bottom: 2.0px;
+  min-width: 63px;
+}
+
+.daily-vs-vonage-same-region-capped .address-2 {
+  line-height: 14px;
+  margin-bottom: 2.0px;
+  min-width: 43px;
+}
+
+.daily-vs-vonage-same-region-capped .frame-7 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .overlap-group-1 {
+  gap: 46px;
+}
+
+.daily-vs-vonage-same-region-capped .x640x360 {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: 2.0px;
+  min-width: 63px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.daily-vs-vonage-same-region-capped .overlap-group2-1 {
+  gap: 59px;
+}
+
+.daily-vs-vonage-same-region-capped .address-3 {
+  line-height: 14px;
+  margin-bottom: 2.0px;
+  min-width: 63px;
+}
+
+.daily-vs-vonage-same-region-capped .address-4 {
+  line-height: 14px;
+  margin-bottom: 2.0px;
+  min-width: 40px;
+}
+
+.daily-vs-vonage-same-region-capped .frame-8 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .overlap-group-2 {
+  gap: 48px;
+}
+
+.daily-vs-vonage-same-region-capped .x320x180 {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-bottom: 2.0px;
+  min-width: 60px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.daily-vs-vonage-same-region-capped .overlap-group2-2 {
+  gap: 58px;
+}
+
+.daily-vs-vonage-same-region-capped .overlap-group1-1 {
+  align-items: center;
+  display: flex;
+  gap: 51px;
+  justify-content: flex-end;
+  min-width: 158px;
+}
+
+.daily-vs-vonage-same-region-capped .address-5 {
+  line-height: 14px;
+  margin-bottom: 2.0px;
+  min-width: 54px;
+}
+
+.daily-vs-vonage-same-region-capped .address-6 {
+  line-height: 14px;
+  margin-bottom: 2.0px;
+  min-width: 41px;
+}
+
+.daily-vs-vonage-same-region-capped .section-header-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--pickled-bluewood);
+  border-radius: 9px 0px 0px 9px;
+  display: flex;
+  gap: 16px;
+  padding: 12px 16px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .configuration {
+  letter-spacing: 0;
+  line-height: 16px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .frame-1-8 {
+  align-items: flex-start;
+  flex-direction: column;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .frame {
+  align-items: center;
+  display: flex;
+  gap: 30px;
+  padding: 0px 30px 0px 0px;
+  position: relative;
+  width: 610px;
+}
+
+.daily-vs-vonage-same-region-capped .frame-3 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  padding: 8px 0px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .call-mode {
+  letter-spacing: 0;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.daily-vs-vonage-same-region-capped .frame-1-9 {
+  align-items: center;
+  background-color: var(--pickled-bluewood);
+  border-radius: 24px;
+  height: 24px;
+  justify-content: center;
+  overflow: hidden;
+  width: 100px;
+}
+
+.daily-vs-vonage-same-region-capped .sfu {
+  letter-spacing: 0;
+  line-height: 12px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .line-2 {
+  align-self: stretch;
+  height: 40px;
+  min-width: 1px;
+}
+
+.daily-vs-vonage-same-region-capped .global-mesh-enabled {
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .frame-2-3 {
+  align-items: center;
+  background-color: #00a98126;
+  border-radius: 24px;
+  gap: 1016px;
+  height: 24px;
+  justify-content: center;
+  overflow: hidden;
+  width: 100px;
+}
+
+.daily-vs-vonage-same-region-capped .vector-4 {
+  height: 10px;
+  min-width: 12px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .ui-layout {
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .frame-1-2 {
+  align-items: center;
+  background-color: var(--pickled-bluewood);
+  border-radius: 24px;
+  gap: 1016px;
+  height: 24px;
+  justify-content: space-around;
+  overflow: hidden;
+  width: 100px;
+}
+
+.daily-vs-vonage-same-region-capped .grid {
+  letter-spacing: 0;
+  line-height: 12px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .tiles-per-page {
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .na {
+  letter-spacing: 0;
+  line-height: 12px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .manual-simulcast {
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .frame-2-4 {
+  align-items: center;
+  background-color: #f6313526;
+  border-radius: 24px;
+  gap: 1016px;
+  height: 24px;
+  justify-content: center;
+  overflow: hidden;
+  width: 100px;
+}
+
+.daily-vs-vonage-same-region-capped .vector-5 {
+  height: 12px;
+  min-width: 12px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .test-duration {
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .address-7 {
+  line-height: 12px;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .frame-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 0px 30px 0px 0px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .frame-3-2 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  margin-right: -30.00px;
+  opacity: 0.5;
+  position: relative;
+  width: 610px;
+}
+
+.daily-vs-vonage-same-region-capped .frame-3-item {
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .ellipse-1 {
+  height: 5px;
+  min-width: 4px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .graphs {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 908px;
+  padding: 60px 30px 30px;
+  position: relative;
+  width: 890px;
+}
+
+.daily-vs-vonage-same-region-capped .section {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--mischka);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 182px;
+  margin-right: -30.00px;
+  position: relative;
+  width: 860px;
+}
+
+.daily-vs-vonage-same-region-capped .header {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .freezes {
+  letter-spacing: 0;
+  line-height: 16px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .target {
+  align-items: center;
+  background-color: var(--porcelain);
+  border-radius: 24px;
+  display: flex;
+  gap: 8px;
+  height: 24px;
+  overflow: hidden;
+  padding: 0px 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .target-1 {
+  height: 12px;
+  min-width: 12px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .number-2 {
+  line-height: 12px;
+}
+
+.daily-vs-vonage-same-region-capped .chart {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  padding: 0px 30px 0px 0px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .data {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  height: 140px;
+  justify-content: space-between;
+  padding: 12px 30px 12px 0px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .x1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .number {
+  letter-spacing: 0.45px;
+  line-height: 9px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 18px;
+}
+
+.daily-vs-vonage-same-region-capped .line-9 {
+  flex: 1;
+  height: 1px;
+  min-width: 626px;
+}
+
+.daily-vs-vonage-same-region-capped .x2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .x3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .x4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .call-outs {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  justify-content: center;
+  padding: 12px 12px 12px 0px;
+}
+
+.daily-vs-vonage-same-region-capped .frame-4 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--mystic);
+  border-radius: 6px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  position: relative;
+  width: 68px;
+}
+
+.daily-vs-vonage-same-region-capped .number-3 {
+  line-height: 14px;
+}
+
+.daily-vs-vonage-same-region-capped .x0s {
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .length {
+  letter-spacing: 0.45px;
+  line-height: 9px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .call-outs-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  justify-content: center;
+  padding: 12px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .x22s {
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .length-1 {
+  letter-spacing: 0.45px;
+  line-height: 9px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .daily-vs-vonage-sr-cap-freezes {
+  height: 144px;
+  top: 39px;
+}
+
+.daily-vs-vonage-same-region-capped .resolution {
+  letter-spacing: 0;
+  line-height: 16px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .x1280x720-1 {
+  letter-spacing: 0;
+  line-height: 12px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .price {
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .avg {
+  letter-spacing: 0.45px;
+  line-height: 9px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .price-1 {
+  text-align: center;
+}
+
+.daily-vs-vonage-same-region-capped .min {
+  letter-spacing: 0.45px;
+  line-height: 9px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .daily-vs-vonage-sr-cap-res {
+  height: 142px;
+  top: 12px;
+}
+
+.daily-vs-vonage-same-region-capped .smoothness-frame-pacing {
+  letter-spacing: 0;
+  line-height: 16px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .percent {
+  letter-spacing: 0;
+  line-height: 12px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .number-4 {
+  line-height: 14px;
+}
+
+.daily-vs-vonage-same-region-capped .number-5 {
+  line-height: 14px;
+}
+
+.daily-vs-vonage-same-region-capped .number-6 {
+  line-height: 14px;
+  text-align: center;
+}
+
+.daily-vs-vonage-same-region-capped .daily-vs-vonage-sr-cap-smoothness {
+  height: 144px;
+  top: 9px;
+}
+
+.daily-vs-vonage-same-region-capped .quality-bitrate {
+  letter-spacing: 0;
+  line-height: 16px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .x680kbps {
+  letter-spacing: 0;
+  line-height: 12px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .number-7 {
+  line-height: 14px;
+}
+
+.daily-vs-vonage-same-region-capped .number-8 {
+  line-height: 14px;
+}
+
+.daily-vs-vonage-same-region-capped .number-9 {
+  line-height: 14px;
+}
+
+.daily-vs-vonage-same-region-capped .number-10 {
+  line-height: 14px;
+}
+
+.daily-vs-vonage-same-region-capped .daily-vs-vonage-sr-cap-br {
+  height: 162px;
+  top: -4px;
+}
+
+.daily-vs-vonage-same-region-capped .rhs {
+  align-items: flex-start;
+  background-color: #f6fafb;
+  display: flex;
+  flex-direction: column;
+  height: 908px;
+  padding: 20px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .frame-1-10 {
+  align-items: center;
+  gap: 16px;
+  height: 40px;
+  padding: 30px;
+  width: 390px;
+}
+
+.daily-vs-vonage-same-region-capped .frame-5 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 100px;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  margin-bottom: -30.00px;
+  margin-top: -30.00px;
+  padding: 12px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .ellipse-83 {
+  height: 16px;
+  min-width: 16px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .daily {
+  color: var(--bondi-blue);
+  flex: 1;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.daily-vs-vonage-same-region-capped .vonage {
+  color: var(--orange);
+  flex: 1;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.daily-vs-vonage-same-region-capped .frame-11 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 20px;
+  padding: 0px 0px 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .result-row {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--mystic);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 182px;
+  justify-content: flex-end;
+  padding: 0px 0px 12px;
+  position: relative;
+  width: 390px;
+}
+
+.daily-vs-vonage-same-region-capped .results {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .result {
+  height: 134px;
+  min-width: 135px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .dot {
+  height: 10px;
+  min-width: 9px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .result-1 {
+  height: 120px;
+  min-width: 120px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .address-8 {
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.daily-vs-vonage-same-region-capped .avg-6 {
+  letter-spacing: 0.45px;
+  line-height: 9px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .call {
+  position: relative;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .daily-vs-vonage-sr-cap {
+  left: 26px;
+  position: absolute;
+  width: 630px;
+}
+
+.daily-vs-vonage-same-region-capped .dot-4 {
+  height: 10px;
+  min-width: 9px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .frame-1-11 {
+  display: flex;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .frame-2-5 {
+  display: flex;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .freezes-3 {
+  letter-spacing: 0.45px;
+  line-height: 9px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .header-3 {
+  align-self: stretch;
+  display: flex;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .line {
+  object-fit: cover;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .min-6 {
+  letter-spacing: 0.45px;
+  line-height: 9px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .number-11 {
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .overlap {
+  align-items: center;
+  display: flex;
+}
+
+.daily-vs-vonage-same-region-capped .overlap-group-3 {
+  align-items: center;
+  display: flex;
+  height: 38px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 158px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 0;
+}
+
+.daily-vs-vonage-same-region-capped .overlap-group2-3 {
+  align-items: center;
+  display: flex;
+  height: 38px;
+  left: 158px;
+  min-width: 315px;
+  position: absolute;
+  top: 0;
+}
+
+.daily-vs-vonage-same-region-capped .price-4 {
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .section-2 {
+  display: flex;
+  position: relative;
+  width: 610px;
+}
+
+.daily-vs-vonage-same-region-capped .target-1-4 {
+  height: 12px;
+  min-width: 12px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .text {
+  letter-spacing: 0;
+  line-height: 14px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.daily-vs-vonage-same-region-capped .x1-4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .x2-4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .x3-4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.daily-vs-vonage-same-region-capped .x4-4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
